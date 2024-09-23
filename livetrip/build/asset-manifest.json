@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/travel-spirit1/static/css/main.08e0ae13.css",
+    "main.js": "/travel-spirit1/static/js/main.e0a04b9c.js",
+    "static/media/img5.jpg": "/travel-spirit1/static/media/img5.4e7e3113ef81f314b807.jpg",
+    "static/media/img.jpg": "/travel-spirit1/static/media/img.f62d767a1b445aa9aa00.jpg",
+    "static/media/img4.jpg": "/travel-spirit1/static/media/img4.bf04fb39bf885ce05dfd.jpg",
+    "static/media/post2.jpg": "/travel-spirit1/static/media/post2.837681d0d6c23c6015dc.jpg",
+    "static/media/img51.jpg": "/travel-spirit1/static/media/img51.821acacbec46a04ed979.jpg",
+    "static/media/img6.jpg": "/travel-spirit1/static/media/img6.821acacbec46a04ed979.jpg",
+    "static/media/img7.jpg": "/travel-spirit1/static/media/img7.821acacbec46a04ed979.jpg",
+    "static/media/post4.jpg": "/travel-spirit1/static/media/post4.cb24a911908427f64764.jpg",
+    "static/media/img3.jpg": "/travel-spirit1/static/media/img3.f75bcca29911ed51af27.jpg",
+    "static/media/hero-bg.jpg": "/travel-spirit1/static/media/hero-bg.d567d7b111dae211072f.jpg",
+    "static/media/post3.jpg": "/travel-spirit1/static/media/post3.d567d7b111dae211072f.jpg",
+    "static/media/img53.jpg": "/travel-spirit1/static/media/img53.7443e5ff02bcccc1a346.jpg",
+    "static/media/post1.jpg": "/travel-spirit1/static/media/post1.3e6ca8d5dcf3e9891ced.jpg",
+    "static/media/contact.jpg": "/travel-spirit1/static/media/contact.5771c31e95322c50b065.jpg",
+    "index.html": "/travel-spirit1/index.html",
+    "main.08e0ae13.css.map": "/travel-spirit1/static/css/main.08e0ae13.css.map",
+    "main.e0a04b9c.js.map": "/travel-spirit1/static/js/main.e0a04b9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08e0ae13.css",
+    "static/js/main.e0a04b9c.js"
+  ]
+}
